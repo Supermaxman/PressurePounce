@@ -1,0 +1,6 @@
+name: PressurePounce
+main: me.supermaxman.pressurepounce.PressurePounce
+version: 1.0.0
+author: Supermaxman
+description: Pressure plates make you bounce!
+commands:
